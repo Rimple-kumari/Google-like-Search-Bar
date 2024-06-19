@@ -1,4 +1,6 @@
 Google-like Search Bar
+
+
 Search like a Pro!
 
 This repository contains a Google-like search bar implemented using HTML, CSS, and DOM manipulation concepts of JavaScript. This project demonstrates a simple yet powerful search bar that allows users to search for keywords and displays suggested results as they type.
